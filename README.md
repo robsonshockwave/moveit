@@ -1,12 +1,9 @@
 ## Move.it
 
-<hr>
-
 <h1 align="center">
     <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
 </h1>
 
-<hr>
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -71,7 +68,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
----
 <hr>
 
 <h6>Made with 💜 by Robson!</h6>
